@@ -1,0 +1,16 @@
+{
+  "name": "6block_core_pool_protocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "md5": "^2.2.1",
+    "node-rsa": "^1.0.7"
+  }
+}
